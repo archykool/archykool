@@ -4,12 +4,7 @@
     <b>M.S. in NYU@Urban Data Science | ML & AI Practitioner | Thrilled by Industry | Global Volunteer</b>
   </p>
   
- <a href="https://www.linkedin.com/in/archy-guo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  &nbsp; <a href="mailto:yg3481@nyu.edu">
-    <img src="https://img.shields.io/badge/Email-yg3481%40nyu.edu-EA4335?style=social&logo=gmail" alt="Email"/>
-  </a>
+<a href="https://www.linkedin.com/in/archy-guo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-archy--guo-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="mailto:yg3481@nyu.edu"><img src="https://img.shields.io/badge/Email-yg3481%40nyu.edu-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 <br>
