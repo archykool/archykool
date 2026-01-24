@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Archy Guo! 🦖</h1>
+  <h1>Hi, I'm Archy 亚琪! 🦖</h1>
   <p>
     <b>M.S. in NYU@Urban Data Science | ML & AI Practitioner | Thrilled by Industry | Global Volunteer</b>
   </p>
